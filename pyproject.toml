@@ -1,7 +1,7 @@
 [project]
 authors = [{name="Kourosh Rezaei", email="kourosh.rezaei@linkdlab.de"} ]
 name = "funcnodes-sec"
-version = "0.1.7"
+version = "0.1.8"
 description = ""
 readme = "README.md"
 classifiers = [
